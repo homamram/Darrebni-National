@@ -1,14 +1,16 @@
-# Darrebni-National
-The Darrebni National Project is a digital platform tailored for Syrian students, offering a comprehensive solution for preparing for the National Unified Exam. It consolidates study materials, previous question banks, and accurate answers, all in one place, eliminating the need for students to scour multiple sources. This project was developed by trainees at the conclusion of their training program within a company, addressing several key challenges associated with exam preparation:
+# Darrebni_National
 
-Unified Study Resource: It provides a centralized repository of study materials, ensuring that students have access to all necessary resources in one convenient location.
+The Darrebni National Project is an online platform designed specifically for Syrian students who are getting ready for the National Unified Exam. It serves as a centralized study hub, providing comprehensive study materials, extensive question banks, and verified answers.
 
-Extensive Question Banks: It compiles past exam questions, allowing students to practice and familiarize themselves with the format and content of the National Unified Exam.
+## Getting Started
 
-Accurate Answers: All answers are verified against trusted references, ensuring that students receive reliable and accurate information.
+This project is a starting point for a Flutter application.
 
-Self-Assessment Tests: It offers self-assessment tools that enable students to gauge their understanding and identify areas that may require further study.
+A few resources to get you started if this is your first Flutter project:
 
-Students from diverse fields such as Information Technology Engineering, Architecture Engineering, Medicine, Dentistry, and Pharmacy can utilize the "Darrebni National Project" to streamline their exam preparation and self-assessment. The application verifies the accuracy of answers and information through trusted references within the platform.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Designed with a user-centric approach, the application aims to provide an optimal study experience for students preparing for the National Unified Exam. 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
